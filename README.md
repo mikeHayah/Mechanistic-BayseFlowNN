@@ -1,4 +1,6 @@
-# Nn For Modeling Of Tissue Morphogenesis
+# NN For Modeling Of Tissue Morphogenesis
+
+This repository contains our codes and data for the team project started in April 2023 at Technische Universität Dresden under the supervision of Dr. Lutz Brusch and Robert Müller.
 
 
 
