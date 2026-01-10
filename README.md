@@ -1,8 +1,5 @@
 # Hybrid Mechanistic and Neural Network-Based Modeling of Tissue Morphogenesis
 
-[![GitHub license](https://img.shields.io/github/license/mikeHayah/Mechanistic-BayseFlowNN)](https://github.com/mikeHayah/Mechanistic-BayseFlowNN)
-[![GitHub stars](https://img.shields.io/github/stars/mikeHayah/Mechanistic-BayseFlowNN)](https://github.com/mikeHayah/Mechanistic-BayseFlowNN/stargazers)
-
 ## Overview
 
 The **Single Genotype Circuit Model** combines Notch signaling with the Cellular Potts Model (CPM) to create a spatiotemporal framework for cellular self-organization. This approach models tissue morphogenesis by considering a mixture of mechanistic biological processes and data-driven learning.
@@ -128,7 +125,7 @@ Project initiated:  April 2023
 
 ##  License
 
-This project is open source.  Please add an appropriate license file if you plan to specify usage terms.
+This project is open source under the MIT License.  Please add an appropriate license file if you plan to specify usage terms.
 
 ---
 
