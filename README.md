@@ -92,9 +92,6 @@ pip install bayesflow  # if using BayesFlow framework
 - ✅ Modular design for easy experimentation
 - ✅ Jupyter notebooks for interactive exploration
 
-## 📈 Results
-
-*(Consider adding some key results, figures, or performance comparisons here)*
 
 ##  Contributing
 
