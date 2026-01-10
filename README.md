@@ -9,14 +9,14 @@ The **Single Genotype Circuit Model** combines Notch signaling with the Cellular
 
 However, traditional numerical ODE solvers become computationally expensive when dealing with large cell populations and nonlinear equations. This project addresses this challenge by **replacing numerical ODE solvers with neural network-based approximations**, combining the interpretability of mechanistic models with the efficiency of deep learning.
 
-## 🎯 Project Goals
+##  Project Goals
 
 - Accelerate simulations of tissue morphogenesis using neural network surrogates
 - Maintain biological interpretability while improving computational efficiency
 - Integrate Bayesian approaches for parameter estimation and uncertainty quantification
 - Provide a framework for hybrid mechanistic-ML modeling in developmental biology
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```
 Mechanistic-BayseFlowNN/
@@ -34,7 +34,7 @@ Mechanistic-BayseFlowNN/
 └── README.md                           # This file
 ```
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -67,7 +67,7 @@ pip install bayesflow  # if using BayesFlow framework
    - `JANA_Pstrior_Estimation.ipynb` - Posterior distribution estimation
    - `JANA_Likelihood_*` notebooks - Various likelihood estimation approaches
 
-## 🧪 Methods
+##  Methods
 
 ### Mechanistic Component
 - **Notch Signaling Model**: Lateral inhibition pathway governing cell fate decisions
@@ -84,7 +84,7 @@ pip install bayesflow  # if using BayesFlow framework
 - **BayesFlow Integration**: Amortized Bayesian inference framework
 - **Uncertainty Quantification**: Probabilistic predictions with confidence intervals
 
-## 📊 Key Features
+##  Key Features
 
 - ✅ Fast surrogate models replacing expensive ODE solvers
 - ✅ Bayesian parameter estimation and uncertainty quantification
@@ -96,11 +96,11 @@ pip install bayesflow  # if using BayesFlow framework
 
 *(Consider adding some key results, figures, or performance comparisons here)*
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📝 Citation
+##  Citation
 
 If you use this code in your research, please cite:
 
@@ -115,7 +115,7 @@ If you use this code in your research, please cite:
 }
 ```
 
-## 👥 Authors and Acknowledgments
+##  Authors and Acknowledgments
 
 **Authors:**
 - **Sina Salehi** - [GitLab](https://gitlab.com/Sinasall)
@@ -129,7 +129,7 @@ If you use this code in your research, please cite:
 Technische Universität Dresden  
 Project initiated:  April 2023
 
-## 📄 License
+##  License
 
 This project is open source.  Please add an appropriate license file if you plan to specify usage terms.
 
