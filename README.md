@@ -6,12 +6,14 @@ The **Single Genotype Circuit Model** combines Notch signaling with the Cellular
 
 However, traditional numerical ODE solvers become computationally expensive when dealing with large cell populations and nonlinear equations. This project addresses this challenge by **replacing numerical ODE solvers with neural network-based approximations**, combining the interpretability of mechanistic models with the efficiency of deep learning.
 
+
 ##  Project Goals
 
 - Accelerate simulations of tissue morphogenesis using neural network surrogates
 - Maintain biological interpretability while improving computational efficiency
-- Integrate Bayesian approaches for parameter estimation and uncertainty quantification
 - Provide a framework for hybrid mechanistic-ML modeling in developmental biology
+
+<img width="1198" height="922" alt="Screenshot 2026-01-12 235619" src="https://github.com/user-attachments/assets/e4e4644a-d445-4bc3-9980-5015ff417003" />
 
 ##  Repository Structure
 
@@ -83,11 +85,8 @@ pip install bayesflow  # if using BayesFlow framework
 
 ##  Key Features
 
-- ✅ Fast surrogate models replacing expensive ODE solvers
-- ✅ Bayesian parameter estimation and uncertainty quantification
-- ✅ Comparative analysis:  traditional vs. neural approaches
-- ✅ Modular design for easy experimentation
-- ✅ Jupyter notebooks for interactive exploration
+- Fast surrogate models replacing expensive ODE solvers
+- Jupyter notebooks for interactive exploration
 
 
 ##  Contributing
