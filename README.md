@@ -13,7 +13,7 @@ However, traditional numerical ODE solvers become computationally expensive when
 - Maintain biological interpretability while improving computational efficiency
 - Provide a framework for hybrid mechanistic-ML modeling in developmental biology
 
-<img width="1198" height="922" alt="Screenshot 2026-01-12 235619" src="https://github.com/user-attachments/assets/e4e4644a-d445-4bc3-9980-5015ff417003" />
+<img width="500" height="400" alt="Screenshot 2026-01-12 235619" src="https://github.com/user-attachments/assets/e4e4644a-d445-4bc3-9980-5015ff417003" />
 
 ##  Repository Structure
 
